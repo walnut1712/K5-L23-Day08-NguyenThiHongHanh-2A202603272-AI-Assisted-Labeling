@@ -1,0 +1,6 @@
+image,object_id,error_type,reviewer,note
+img_003.jpg,,khong,Nguyen Thi Hong Hanh,Nhãn đạt yêu cầu sau review
+img_006.jpg,86,sai_lop,Nguyen Thi Hong Hanh,Phát hiện ca sai lớp trong mẫu QC (bẫy lọt wrong_class)
+img_014.jpg,,khong,Nguyen Thi Hong Hanh,Nhãn chính xác không có lỗi
+img_031.jpg,,khong,Nguyen Thi Hong Hanh,Nhãn sạch sau khi xóa box thừa
+img_035.jpg,,khong,Nguyen Thi Hong Hanh,Nhãn đã được hiệu chỉnh box ôm sát
